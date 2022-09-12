@@ -1,1 +1,2 @@
 # simple-face-mask-detection
+With the covid-19 pandemic face mask detection is a very common problem nowdays in industry with many differnt solutions. Computer vision based solutions are still capable of identifying face masks in both still images and videos rather than other solutions. Developers suggested and developed many libraries and APIs to detect face masks using computer vision. In this notebook you will be asked to develop a simple face mask detection algorithm using computer vision.
